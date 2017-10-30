@@ -27,8 +27,4 @@ conda create --name poreqc --file conda-packages.txt
 source activate poreqc
 ```
 
-## RUN
 
-```bash
-make run
-```
